@@ -1,4 +1,4 @@
-### I’m currently learning 🌱
+### Hi, I’m currently learning! 🌱
 
 <!--
 **ziyuzzzhou/ziyuzzzhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
